@@ -9,3 +9,6 @@ This project concerns the research and design of a hate speech detection model t
 I would like to thank Professor Jeremy Pitt and Dr. David Burth Kurka for their continuous advice and supervision of the project in addition to their continuous input and giving me the freedom of choice in how to construct and tailor the project to my interests.
 I would also like to thank my friends and family for continuous help and support throughout my four years at Imperial and allowing me to grow through my experience at university.
 
+
+
+![alt text](https://github.com/JeetendraJoshi/final_year_project/blob/main/Images/socialnetworkimagedepth1.png?raw=true)
